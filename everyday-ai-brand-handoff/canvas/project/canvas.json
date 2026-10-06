@@ -1,0 +1,19 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-10-02T12:00:00Z"},
+  "title": "Everyday AI Brand Directions",
+  "launch": {"view": "canvas"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html": {"x": 0, "y": 0, "w": 1280, "h": 1000, "title": "01 Atomic Appliance: Brand Kit"},
+    "A_Prompts.dc.html": {"x": 1360, "y": 0, "w": 1280, "h": 1000, "title": "01 Atomic Appliance: Image Prompts"},
+    "B_Brand.dc.html": {"x": 0, "y": 1400, "w": 1280, "h": 1000, "title": "02 Space-Age Operator: Brand Kit"},
+    "B_Prompts.dc.html": {"x": 1360, "y": 1400, "w": 1280, "h": 1000, "title": "02 Space-Age Operator: Image Prompts"}
+  },
+  "order": ["Main.dc.html", "A_Prompts.dc.html", "B_Brand.dc.html", "B_Prompts.dc.html"],
+  "notes": {
+    "t1": {"x": 0, "y": -260, "text": "Direction 1: The Atomic Appliance", "kind": "title1", "maxW": 2640},
+    "t2": {"x": 0, "y": 1140, "text": "Direction 2: The Space-Age Operator", "kind": "title1", "maxW": 2640}
+  },
+  "designSystems": []
+}
